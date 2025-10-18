@@ -1,2 +1,3 @@
-# Proyecto-GAES-
-Un proyecto del GAES 
+# TYM
+Pagina Oficial de la empresa TYM
+proxima actualización dentro de poco.
